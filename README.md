@@ -6,7 +6,7 @@ Script will parse IP addresses from PCAP and try to find reverse names for those
 
 **Requirements:**
 - tshark and dig installed
-- access to DNS queries
+- access to DNS which can be used for reverse queries
 
 **Usage:**
 ```
